@@ -1,1 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project made to test the static site generation feature of Next.js. It uses the [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) API to fetch data and generate static pages. Currently it is generating 5000 pages with no issue.
+This is a [Next.js](https://nextjs.org/) project made to test the static site generation feature of Next.js. It uses the [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) API to fetch data and generate static pages. 
+
+Currently it is generating 5000 pages with no issue. To be fair, they are really simple pages, but I receive only one error about the home page being too large. No issues with the number of pages to be generated.
