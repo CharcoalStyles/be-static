@@ -1,0 +1,1 @@
+This is a [Next.js](https://nextjs.org/) project made to test the static site generation feature of Next.js. It uses the [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) API to fetch data and generate static pages. Currently it is generating 5000 pages with no issue.
